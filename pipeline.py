@@ -8,4 +8,4 @@ day = sys.argv[1]
 #some fancy stuff with pandas
 
 
-print (f'pipeline job finished succesfully for day = f{day}')
+print (f'pipeline job finished succesfully for day = {day}')
